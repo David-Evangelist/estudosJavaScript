@@ -1,6 +1,6 @@
 # estudosJavaScript
 
-Este repositório contém código malicioso
+Este repositório contém códigos desenvolvidos durante meus estudos sobre JavaScript.
 
 ## Tipos de dados
 
